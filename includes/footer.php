@@ -1,0 +1,1 @@
+</main></div><footer class="footer">Eden Skin • Skin Beauty Aesthetics • <?=date('Y')?></footer><script>window.APP_BASE=<?=json_encode(rtrim(app_config()['app']['base_url']??'','/'))?>;window.CSRF=<?=json_encode(csrf_token())?>;</script><script src="<?=url('assets/js/app.js')?>"></script></body></html>

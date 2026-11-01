@@ -1,0 +1,1 @@
+Public booking success now uses a direct server-side HTTP 303 redirect to https://www.google.com/ immediately after saving. Refreshing Google cannot resubmit the booking form.

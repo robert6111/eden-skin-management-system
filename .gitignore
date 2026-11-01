@@ -1,0 +1,23 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Backups
+*.bak
+*.backup
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies (if applicable)
+/vendor/
+/node_modules/
